@@ -1,0 +1,14 @@
+.auth_login_container{
+    
+    .auth_main{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 935px;
+        margin: 32px auto;
+
+        .auth_left{
+            margin-top: 40px;
+        }
+    }
+}
